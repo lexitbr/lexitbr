@@ -4,7 +4,7 @@
   <img src="/projects/lexit/lexit.svg" width="350px" />
 </p>
 
-# 𝚂𝚎𝚎 𝚘𝚞𝚛 𝚙𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘å
+# 𝚂𝚎𝚎 𝚘𝚞𝚛 𝚙𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘
 
 #### 𝚇𝙲𝚊𝚙𝚒𝚝𝚊𝚕 𝙿𝚊𝚛𝚝𝚗𝚎𝚛𝚜
 ![](https://img.shields.io/badge/PHP-%234A007B?style=plastic&logo=php&labelColor=white) ![](https://img.shields.io/badge/MySQL-%234A007B?style=plastic&logo=mysql&labelColor=white) ![](https://img.shields.io/badge/Linux-%234A007B?style=plastic&logo=linux&logoColor=black&labelColor=white)
