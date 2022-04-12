@@ -12,8 +12,8 @@
 
 #### # 𝚂𝚌𝚛𝚎𝚎𝚗𝚜𝚑𝚘𝚝𝚜
 
-<a href="https://github.com/lexitbr/lexitbr/blob/main/xcapital/dashboard.xcapitalpartners.com.br_admin_dashboard.png?raw=true" target="_blank"><img src="https://github.com/lexitbr/lexitbr/blob/main/xcapital/dashboard.xcapitalpartners.com.br_admin_dashboard.png?raw=true" width="300px" />
+<a href="https://github.com/lexitbr/lexitbr/blob/main/projects/xcapital/dashboard.xcapitalpartners.com.br_admin_dashboard.png?raw=true" target="_blank"><img src="https://github.com/lexitbr/lexitbr/blob/main/projects/xcapital/dashboard.xcapitalpartners.com.br_admin_dashboard.png?raw=true" width="300px" />
 </a>
 
-<a href="https://github.com/lexitbr/lexitbr/blob/main/xcapital/dashboard.xcapitalpartners.com.br_dashboard_12.png?raw=true" target="_blank"><img src="https://github.com/lexitbr/lexitbr/blob/main/xcapital/dashboard.xcapitalpartners.com.br_dashboard_12.png?raw=true" width="300px" />
+<a href="https://github.com/lexitbr/lexitbr/blob/main/projects/xcapital/dashboard.xcapitalpartners.com.br_dashboard_12.png?raw=true" target="_blank"><img src="https://github.com/lexitbr/lexitbr/blob/main/projects/xcapital/dashboard.xcapitalpartners.com.br_dashboard_12.png?raw=true" width="300px" />
 </a>
