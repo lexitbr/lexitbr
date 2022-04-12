@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/lexitbr/lexitbr/blob/main/xcapital/w-x-capital-novo-logo-200x44.png?raw=true" />
+  <img src="https://github.com/lexitbr/lexitbr/blob/main/projects/xcapital/w-x-capital-novo-logo-200x44.png?raw=true" />
 </p>
 
 ------------
