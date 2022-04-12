@@ -1,4 +1,6 @@
-<img src="/lexit.svg" width="100px" />
+<p align="center">
+  <img src="/lexit.svg" width="350px" />
+</p>
 ###### See our last works.
 
 ## Portfolio
