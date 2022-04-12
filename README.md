@@ -1,4 +1,4 @@
-![LexIT](/lexit.svg)
+![LexIT](/lexit.svg?)
 ###### See our last works.
 
 ## Portfolio
