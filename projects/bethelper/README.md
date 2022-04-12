@@ -1,5 +1,5 @@
 <p  align="center">
-<img  src="https://github.com/lexitbr/lexitbr/blob/main/bethelper/logo.png?raw=true" height="80px" />
+<img  src="https://github.com/lexitbr/lexitbr/blob/main/projects/bethelper/logo.png?raw=true" height="80px" />
 </p>
 
 -----------
@@ -15,7 +15,7 @@
   
 #### # 𝚂𝚌𝚛𝚎𝚎𝚗𝚜𝚑𝚘𝚝𝚜
 
-<a  href="https://github.com/lexitbr/lexitbr/blob/main/bethelper/bethelper.png?raw=true"  target="_blank"><img  src="https://github.com/lexitbr/lexitbr/blob/main/bethelper/bethelper.png?raw=true"  width="600px" />
+<a  href="https://github.com/lexitbr/lexitbr/blob/main/projects/bethelper/bethelper.png?raw=true"  target="_blank"><img  src="https://github.com/lexitbr/lexitbr/blob/main/projects/bethelper/bethelper.png?raw=true"  width="600px" />
 </a>
 
  
