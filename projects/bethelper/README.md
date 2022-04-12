@@ -1,5 +1,5 @@
 <p  align="center">
-<img  src="https://github.com/lexitbr/lexitbr/blob/main/projects/bethelper/logo.png?raw=true" height="80px" />
+<img  src="https://github.com/lexitbr/lexitbr/blob/main/bethelper/logo.png?raw=true" height="80px" />
 </p>
 
 -----------
@@ -10,12 +10,12 @@
   
 #### # 𝚆𝚑𝚒𝚌𝚑 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚝𝚑𝚎𝚢 𝚑𝚊𝚟𝚎 ?
 
-![](https://img.shields.io/badge/PHP-blue?style=plastic&logo=php&labelColor=white) ![](https://img.shields.io/badge/MySQL-blue?style=plastic&logo=mysql&labelColor=white)
+![](https://img.shields.io/badge/PHP-%234A007B?style=plastic&logo=php&labelColor=white) ![](https://img.shields.io/badge/MySQL-%234A007B?style=plastic&logo=mysql&labelColor=white)    ![](https://img.shields.io/badge/Linux-%234A007B?style=plastic&logo=linux&logoColor=black&labelColor=white) ![](https://img.shields.io/badge/Paypal%20SDK-%234A007B?style=plastic&logo=paypal&logoColor=black&labelColor=white) ![](https://img.shields.io/badge/Telegram%20Bot-%234A007B?style=plastic&logo=telegram&logoColor=black&labelColor=white)
 
   
 #### # 𝚂𝚌𝚛𝚎𝚎𝚗𝚜𝚑𝚘𝚝𝚜
 
-<a  href="https://github.com/lexitbr/lexitbr/blob/main/projects/bethelper/bethelper.png?raw=true"  target="_blank"><img  src="https://github.com/lexitbr/lexitbr/blob/main/projects/bethelper/bethelper.png?raw=true"  width="800px" />
+<a  href="https://github.com/lexitbr/lexitbr/blob/main/bethelper/bethelper.png?raw=true"  target="_blank"><img  src="https://github.com/lexitbr/lexitbr/blob/main/bethelper/bethelper.png?raw=true"  width="600px" />
 </a>
 
  
