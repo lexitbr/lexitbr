@@ -1,19 +1,21 @@
-<p align="center">
-  <img src="https://github.com/lexitbr/lexitbr/blob/main/bethelper/logo.png?raw=true" />
+<p  align="center">
+<img  src="https://github.com/lexitbr/lexitbr/blob/main/bethelper/logo.png?raw=true" height="80px" />
 </p>
 
-------------
+-----------
+#### # 𝙷𝚘𝚠 𝚊𝚛𝚎 𝙱𝚎𝚝𝚑𝚎𝚕𝚙𝚎𝚛 𝚃𝚒𝚙𝚜 ?
 
-#### # 𝙷𝚘𝚠 𝚊𝚛𝚎 𝚇𝙲𝚊𝚙𝚒𝚝𝚊𝚕 ?
-𝚇𝚌𝚊𝚙𝚒𝚝𝚊𝚕 𝚒𝚜 𝚊 𝚌𝚘𝚖𝚙𝚊𝚗𝚢 𝚝𝚑𝚊𝚝 𝚘𝚙𝚎𝚛𝚊𝚝𝚎𝚜 𝚠𝚒𝚝𝚑 𝚁𝙿𝚅 𝚊𝚗𝚍 𝙵𝚎𝚍𝚎𝚛𝚊𝚕 𝙿𝚛𝚎𝚌𝚊𝚝𝚘́𝚛𝚒𝚘𝚜 𝚜𝚎𝚛𝚟𝚒𝚌𝚎𝚜 𝚊𝚗𝚍 𝚙𝚛𝚘𝚍𝚞𝚌𝚝𝚜 𝚊𝚒𝚖𝚎𝚍 𝚊𝚝 𝚝𝚑𝚎 𝚊𝚗𝚝𝚒𝚌𝚒𝚙𝚊𝚝𝚒𝚘𝚗 𝚘𝚏 𝚝𝚑𝚎𝚜𝚎 𝚏𝚎𝚍𝚎𝚛𝚊𝚕 𝚛𝚎𝚌𝚎𝚒𝚟𝚊𝚋𝚕𝚎𝚜.
+>𝙰𝚖𝚊𝚣𝚒𝚗𝚐 𝚝𝚘𝚘𝚕 𝚝𝚘 𝚊𝚗𝚊𝚕𝚢𝚣𝚎 𝚐𝚛𝚎𝚢𝚑𝚘𝚞𝚗𝚍 𝚛𝚊𝚌𝚒𝚗𝚐. 𝚄𝚜𝚒𝚗𝚐 𝚏𝚊𝚌𝚝𝚘𝚛𝚜 𝚜𝚞𝚌𝚑 𝚊𝚜 𝚠𝚎𝚒𝚐𝚑𝚝, 𝚐𝚎𝚗𝚍𝚎𝚛, 𝚌𝚘𝚕𝚘𝚛𝚒𝚗𝚐, 𝚊𝚐𝚎, 𝚝𝚛𝚊𝚌𝚔 𝚌𝚘𝚗𝚍𝚒𝚝𝚒𝚘𝚗𝚜 𝚊𝚗𝚍 𝚊𝚌𝚌𝚒𝚍𝚎𝚗𝚝 𝚑𝚒𝚜𝚝𝚘𝚛𝚢, 𝚝𝚑𝚎 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚑𝚎𝚕𝚙𝚜 𝚢𝚘𝚞 𝚌𝚑𝚘𝚘𝚜𝚎 𝚝𝚑𝚎 𝚋𝚎𝚜𝚝 𝚘𝚙𝚝𝚒𝚘𝚗.
 
+  
 #### # 𝚆𝚑𝚒𝚌𝚑 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚝𝚑𝚎𝚢 𝚑𝚊𝚟𝚎 ?
+
 ![](https://img.shields.io/badge/PHP-blue?style=plastic&logo=php&labelColor=white) ![](https://img.shields.io/badge/MySQL-blue?style=plastic&logo=mysql&labelColor=white)
 
+  
 #### # 𝚂𝚌𝚛𝚎𝚎𝚗𝚜𝚑𝚘𝚝𝚜
 
-<a href="https://github.com/lexitbr/lexitbr/blob/main/xcapital/dashboard.xcapitalpartners.com.br_admin_dashboard.png?raw=true" target="_blank"><img src="https://github.com/lexitbr/lexitbr/blob/main/xcapital/dashboard.xcapitalpartners.com.br_admin_dashboard.png?raw=true" width="300px" />
+<a  href="https://github.com/lexitbr/lexitbr/blob/main/bethelper/bethelper.png?raw=true"  target="_blank"><img  src="https://github.com/lexitbr/lexitbr/blob/main/bethelper/bethelper.png?raw=true"  width="600px" />
 </a>
 
-<a href="https://github.com/lexitbr/lexitbr/blob/main/xcapital/dashboard.xcapitalpartners.com.br_dashboard_12.png?raw=true" target="_blank"><img src="https://github.com/lexitbr/lexitbr/blob/main/xcapital/dashboard.xcapitalpartners.com.br_dashboard_12.png?raw=true" width="300px" />
-</a>
+ 
