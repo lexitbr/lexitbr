@@ -1,9 +1,10 @@
 
+
 <p align="center">
-  <img src="/lexit/lexit.svg" width="350px" />
+  <img src="/projects/lexit/lexit.svg" width="350px" />
 </p>
 
-# 𝚂𝚎𝚎 𝚘𝚞𝚛 𝚙𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘
+# 𝚂𝚎𝚎 𝚘𝚞𝚛 𝚙𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘å
 
 #### 𝚇𝙲𝚊𝚙𝚒𝚝𝚊𝚕 𝙿𝚊𝚛𝚝𝚗𝚎𝚛𝚜
 ![](https://img.shields.io/badge/PHP-%234A007B?style=plastic&logo=php&labelColor=white) ![](https://img.shields.io/badge/MySQL-%234A007B?style=plastic&logo=mysql&labelColor=white) ![](https://img.shields.io/badge/Linux-%234A007B?style=plastic&logo=linux&logoColor=black&labelColor=white)
@@ -24,4 +25,4 @@
 ![](https://img.shields.io/badge/PHP-%234A007B?style=plastic&logo=php&labelColor=white) ![](https://img.shields.io/badge/MySQL-%234A007B?style=plastic&logo=mysql&labelColor=white)    ![](https://img.shields.io/badge/Linux-%234A007B?style=plastic&logo=linux&logoColor=black&labelColor=white) 
 > 𝙰𝚖𝚊𝚣𝚒𝚗𝚐 𝚝𝚘𝚘𝚕 𝚝𝚘 𝚊𝚗𝚊𝚕𝚢𝚣𝚎 𝚐𝚛𝚎𝚢𝚑𝚘𝚞𝚗𝚍 𝚛𝚊𝚌𝚒𝚗𝚐. 𝚄𝚜𝚒𝚗𝚐 𝚏𝚊𝚌𝚝𝚘𝚛𝚜 𝚜𝚞𝚌𝚑 𝚊𝚜 𝚠𝚎𝚒𝚐𝚑𝚝, 𝚐𝚎𝚗𝚍𝚎𝚛, 𝚌𝚘𝚕𝚘𝚛𝚒𝚗𝚐, 𝚊𝚐𝚎, 𝚝𝚛𝚊𝚌𝚔 𝚌𝚘𝚗𝚍𝚒𝚝𝚒𝚘𝚗𝚜 𝚊𝚗𝚍 𝚊𝚌𝚌𝚒𝚍𝚎𝚗𝚝 𝚑𝚒𝚜𝚝𝚘𝚛𝚢, 𝚝𝚑𝚎 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚑𝚎𝚕𝚙𝚜 𝚢𝚘𝚞 𝚌𝚑𝚘𝚘𝚜𝚎 𝚝𝚑𝚎 𝚋𝚎𝚜𝚝 𝚘𝚙𝚝𝚒𝚘𝚗.
 
-[![Details](https://img.shields.io/badge/-See%20details-blue "Details")](/bethelper "Details") [![Details](https://img.shields.io/badge/-Website-purple "Details")](https://bethelper.tips "Details")
+[![Details](https://img.shields.io/badge/-See%20details-blue "Details")](/projects/bethelper "Details") [![Details](https://img.shields.io/badge/-Website-purple "Details")](https://bethelper.tips "Details")
