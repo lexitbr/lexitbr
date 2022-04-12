@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+<p align="center">
+  <img src="/lexit/lexit.svg" width="350px" />
+</p>
 
-You can use the [editor on GitHub](https://github.com/lexitbr/lexitbr/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# 𝚂𝚎𝚎 𝚘𝚞𝚛 𝚙𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 𝚇𝙲𝚊𝚙𝚒𝚝𝚊𝚕 𝙿𝚊𝚛𝚝𝚗𝚎𝚛𝚜
+![](https://img.shields.io/badge/PHP-blue?style=plastic&logo=php&labelColor=white) ![](https://img.shields.io/badge/MySQL-blue?style=plastic&logo=mysql&labelColor=white)
+> 𝚇𝚌𝚊𝚙𝚒𝚝𝚊𝚕 𝚒𝚜 𝚊 𝚌𝚘𝚖𝚙𝚊𝚗𝚢 𝚝𝚑𝚊𝚝 𝚘𝚙𝚎𝚛𝚊𝚝𝚎𝚜 𝚠𝚒𝚝𝚑 𝚁𝙿𝚅 𝚊𝚗𝚍 𝙵𝚎𝚍𝚎𝚛𝚊𝚕 𝙿𝚛𝚎𝚌𝚊𝚝𝚘́𝚛𝚒𝚘𝚜 𝚜𝚎𝚛𝚟𝚒𝚌𝚎𝚜 𝚊𝚗𝚍 𝚙𝚛𝚘𝚍𝚞𝚌𝚝𝚜 𝚊𝚒𝚖𝚎𝚍 𝚊𝚝 𝚝𝚑𝚎 𝚊𝚗𝚝𝚒𝚌𝚒𝚙𝚊𝚝𝚒𝚘𝚗 𝚘𝚏 𝚝𝚑𝚎𝚜𝚎 𝚏𝚎𝚍𝚎𝚛𝚊𝚕 𝚛𝚎𝚌𝚎𝚒𝚟𝚊𝚋𝚕𝚎𝚜.
 
-### Markdown
+[![Details](https://img.shields.io/badge/-See%20Details-%234A007B "Details")](/xcapital/xcapital.md "Details")
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lexitbr/lexitbr/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
