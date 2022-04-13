@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/projects/lexit/lexit.svg" width="350px" />
+  <img src="/projects/lexit/lexit.svg" width="450px" />
 </p>
 
 # 𝚂𝚎𝚎 𝚘𝚞𝚛 𝚙𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘
